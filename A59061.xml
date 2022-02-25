@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sad and lamentable cry of oppression and cruelty in the city of Bristol Relating to the prosecution of certain dissenting-Protestants in some passages most notorious to the grieved inhabitants of the said city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59061</idno>
+            <idno type="STC">Wing S241</idno>
+            <idno type="STC">ESTC R219827</idno>
+            <idno type="EEBO-CITATION">99831274</idno>
+            <idno type="PROQUEST">99831274</idno>
+            <idno type="VID">35737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sad and lamentable cry of oppression and cruelty in the city of Bristol Relating to the prosecution of certain dissenting-Protestants in some passages most notorious to the grieved inhabitants of the said city.</title>
+               </titleStmt>
+               <extent>[2],  6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Alexander,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXII. [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bristol (England) --  History --  17th century.</term>
+               <term>Bristol (England) --  Social conditions --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35737:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+            <p>THE <hi>Sad and Lamentable</hi> CRY OF OPPRESSION AND CRUELTY In the CITY of BRISTOL.</p>
+            <p>RELATING To the Proſecution of certain <hi>Diſſen<g ref="char:EOLhyphen"/>ting-Proteſtants</hi> in ſome Paſſages moſt Notorious to the Grieved In<g ref="char:EOLhyphen"/>habitants of the ſaid CITY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Alexander,</hi> MDCLXXXII.</p>
+            <pb facs="tcp:35737:2"/>
+            <!-- PDF PAGE 99 -->
+            <pb facs="tcp:35737:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 99 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35737:3"/>
+            <!-- PDF PAGE 100 -->
+            <pb n="1" facs="tcp:35737:3"/>
+            <!-- PDF PAGE 100 -->
+            <head>THE <hi>Sad and Lamentable</hi> CRY OF OPPRESSION AND CRUELTY In the CITY of BRISTOL.</head>
+            <p>IT is remarkable, that two Gentlemen (for ſo they would be accounted) <hi>viz.</hi> Sheriff <hi>Knight,</hi> and <hi>John Helliar</hi> an Attorney, aſſiſted with ſome Infe<g ref="char:EOLhyphen"/>rior Officers, and a rude multitude of Youth, <hi>&amp;c.</hi> have been, for ſome Months laſt paſt, moſt vigorous in the ſevere proſecution of Diſſenting Proteſtants in the ſaid City, whoſe Fury hath tranſported them beyond all bounds of Humanity, Law and Juſtice. They are not content with their own reſpective Offices of Sheriff and Conſtable, (for the Conſervation of his Majeſties Peace, in Subordination to his Juſtices,) and
+<pb n="2" facs="tcp:35737:4"/>
+               <!-- PDF PAGE 101 -->addition of the Place of Informers, but they Peremp<g ref="char:EOLhyphen"/>torily aſſume to themſelves the Authority of Juſtices and Rulers over the Heads of the Lawful and Chief Magiſtrates of that City, to the great diſparagment and Infamy of the Polity thereof, as by the following particulars is evinced.</p>
+            <p n="1">1. <hi>John Helliar,</hi> attended with other Officers, and a rude multitude, did in a moſt riotous manner deface and ſpoile ſeveral Houſes which are Free-holds, (be<g ref="char:EOLhyphen"/>cauſe in part thereof the Diſſenters uſually have met) to the value of ſome hundreds of pounds, much of which have been acted upon the Lord's Day, with Iron Sledges, and other Tools, making a terri<g ref="char:EOLhyphen"/>ble noiſe, to the great wonder and amazement of the Inhabitants of the ſaid City, and of Strangers and Tradeſmen that came to the Fair: At which time much of this was Tranſacted, by occaſion whereof, as alſo by the Exceſſive Spoil upon ſome Tradeſmens Goods in the Fair, the Trade and Commerce was much diſtracted and ſpoiled; and many with great diſappointments forced to return home under ſore diſ<g ref="char:EOLhyphen"/>couragments and diſcontents.</p>
+            <p>
+               <hi>Secondly,</hi> The ſaid perſons after the aforeſaid de<g ref="char:EOLhyphen"/>facing and ſpoil made upon the Houſes, have taken and kept poſſeſſion, not ſuffering the Inhabitants, Te<g ref="char:EOLhyphen"/>nants or others to Re-enter.</p>
+            <p>
+               <hi>Thirdly,</hi> Many of the ſaid Diſſenters are violent<g ref="char:EOLhyphen"/>ly pulled and forced out of their Meetings, and the Doors barred againſt them: Theſe officious Gentle<g ref="char:EOLhyphen"/>men, <hi>viz.</hi> Sheriff <hi>Knight</hi> and <hi>John Helliar,</hi> with the
+<pb n="3" facs="tcp:35737:4"/>
+               <!-- PDF PAGE 101 -->rude Multitude attending them, have conſtantly viſited the Quakers Meetings without doors, near their uſual place of Meeting, where, in their preſence, the Rude Per<g ref="char:EOLhyphen"/>ſons have offered very groſs abuſes; by haleing Perſons, beating ſome and tearing of Womens Scarfs, and other ſhameful Incivilities. And it hath been obſerved, that theſe things have been done, at the abuſive Exam<g ref="char:EOLhyphen"/>ple of <hi>John Helliar;</hi> and notice given by him in theſe or ſuch like words, to wit, <hi>Boyes, have a care of the Womens Hoods and Scarfes,</hi> &amp;c, upon which they have fallen to ſuch their abuſive Work.</p>
+            <p>
+               <hi>Fourthly,</hi> Beſides theſe ſordid Abuſes, the Per<g ref="char:EOLhyphen"/>ſons aforeſaid, <hi>viz.</hi> Sheriff <hi>Knight,</hi> and <hi>John Helliar,</hi> with their Retinue, have frequently come to diſſipate the ſaid Meeting ſo early, before any pretext of Religious Exerciſe performed by the Meeters, and have ſeveral times ſent a conſiderable number to Priſon at their own voluntary pleaſures, <hi>viz. Bridewell</hi> and <hi>Newgate,</hi> without convening them before any of his Majeſties Juſtices of Peace, or Ju<g ref="char:EOLhyphen"/>dicial Examination or Warrant of Commitment, and there detain'd them for ſome time, till brought before the Mayor or other Juſtices.</p>
+            <p>
+               <hi>Fifthly,</hi> But that which m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt aggravates their mer<g ref="char:EOLhyphen"/>cileſs Cruelty, is, their thron<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing and crouding ſuch numbers in the Goal, which is known to be a Strait, Naſty and offenſive Goal; wh<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, after they had Im<g ref="char:EOLhyphen"/>priſoned near Fifty, there was ſuch ſtraitneſs of lodging, that all could not ledge at once, without crouding three or four in a v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry narrow Bed: Seve<g ref="char:EOLhyphen"/>ral accounts of credible perſon; are given, that the
+<pb n="4" facs="tcp:35737:5"/>
+               <!-- PDF PAGE 102 -->laſt Lords Day being the 26 of <hi>February,</hi> they ſent forty more of the Quakers, firſt to <hi>Bridewell;</hi> and then about ten of the Clock of the ſame Night, removed them to <hi>Newgate:</hi> And that Night Thirty five were forced to ſit up, for whom there was no Beds; ſome lay upon the Table-board, and ſome under the Board, where the Maſtiff Dog uſed to lie, having the Foot-frame of the Board for their Pillow; ſo making what ſhift they could to get a little reſt. The next Night they got in ſome Matts, where they lay as thick as they could thereon, in a cold Room, and ſome in Ha<g ref="char:EOLhyphen"/>mocks over their Heads, and in the morning they took up their lodging, and heaped it up, to make Room for to paſs by, it being the publick Thorough-fare of the Gaol.</p>
+            <p>
+               <hi>Sixthly,</hi> Before this laſt crouding of theſe Perſons in Goal, the Priſoners had not been wanting to addreſs the Magiſtrates for Enlargement of the Priſon, laying the danger, not only of their Healths but Lives be<g ref="char:EOLhyphen"/>fore them, as alſo of Infection to the City: whereup<g ref="char:EOLhyphen"/>on one Chief Magiſtrate did openly confeſs, <hi>That if he had a Dog he loved, be would not put him there.</hi> And the Mayor and other Juſtices in purſuance of a ſon<g ref="char:EOLhyphen"/>mer Order of Seſſions, have urged for the Enlarge<g ref="char:EOLhyphen"/>ment of the Goal, and <hi>Richard Lane</hi> Eſquire, the El<g ref="char:EOLhyphen"/>der Sheriff gave conſent and deſired it. But the ſaid Sheriff <hi>Knight,</hi> like a perſon void of all good Na<g ref="char:EOLhyphen"/>ture and Humanity, hath been the chief obſtructer therein, as divers Indifferent and Credible Perſons of the Neighbour-hood have certified under their Hands.</p>
+            <p>
+               <pb n="5" facs="tcp:35737:5"/>
+               <!-- PDF PAGE 102 -->
+               <hi>Seventhly,</hi> But this is not all the miſery that theſe People are expoſed to, with reſpect to the endan<g ref="char:EOLhyphen"/>gering of their Lives, for while they are under theſe hard uſages in Priſon, divers of them have been great<g ref="char:EOLhyphen"/>ly ſpoiled by exorbitant Diſtreſſes made upon their Houſhold Goods, Shop-ware, and Merchandize; in which <hi>John Helliar</hi> is principally officious, ſparing not to break open Doors of Houſes Shops and Cellars, <hi>&amp;c.</hi> car<g ref="char:EOLhyphen"/>rying away Linnen, Beds and Bedding, Plate, Braſs and Pewter, <hi>&amp;c.</hi> taking from one Merchant, for a Fine of Ten pounds five ſhillings, a Tun of Wine, and Six pounds in Money beſides out of his Counter; pulling off one man's Coat from his Back in his own Houſe, and taking Ten pounds odd Money out of his Pocket: Beſides, 'tis notoriouſly known how moſt ſhamefully they under-ſell the Goods Diſtrained. All which Pre<g ref="char:EOLhyphen"/>cedent Barbarities, ſeem to beſpeak a deſign of De<g ref="char:EOLhyphen"/>ſtruction to the ſaid People, both in their Perſons and Eſtates, with abſolute Ruin to their Wives, Children, and Poſterity: Beſides, the great Diſtreſs that is here<g ref="char:EOLhyphen"/>by brought upon many poor Families, that have de<g ref="char:EOLhyphen"/>pendance upon divers Sufferers in their Trades and Ma<g ref="char:EOLhyphen"/>nufacturies, divers of the ſaid Priſoners and Sufferers are known to be conſiderable in Trade and Traffick, by means whereof ſome Thouſands <hi>per Annum</hi> have accrewed to his Majeſties Cuſtomes.</p>
+            <p>
+               <pb n="6" facs="tcp:35737:6"/>
+               <!-- PDF PAGE 103 -->
+The Conſideration of the ſaid ſad Premiſſes hath brought great amazement and conſternation upon ma<g ref="char:EOLhyphen"/>ny of his Majeſties Subjects being Spectators, being very Anxious about the Deſign, Tendance and Conſequence of theſe proceedings: The verity of matter of Fact hereby expoſed is not aggravated with all the grievous Circumſtances attending the ſaid proſecution, notori<g ref="char:EOLhyphen"/>ouſly known in the ſaid City, and many other places; Many indifferent and Credible perſons being able and ready to atteſt the ſame.</p>
+            <p>The precedent Account being an Abreviation out of ſome Letters from Credible Perſons in <hi>Briſtol;</hi> the further Relation of the Cruelty and Arbitrary Pro<g ref="char:EOLhyphen"/>ceedings of the before-mentioned, and others their Abbettors and Aſſiſtants, is left to the immediate Suffe<g ref="char:EOLhyphen"/>rers themſelves to inlarge on in due time, and as they ſhall ſee Cauſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35737:6"/>
+            <!-- PDF PAGE 103 -->
+         </div>
+      </body>
+   </text>
+</TEI>
